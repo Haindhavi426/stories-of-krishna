@@ -1,0 +1,35 @@
+html{
+    background-color: #A0BFE0;
+}
+.name{
+    font-family: 'Solway', serif;
+    font-size: 50px;
+}
+h1{
+    font-family: 'Eagle Lake', cursive;
+    color: #4A55A2;
+}
+h2{
+    font-family: 'Eagle Lake', cursive;
+    color: #4A55A2;
+}
+p{
+    font-family: 'Eagle Lake', cursive;
+}
+img{
+    width: 200px;
+    float: right;
+    margin-right: 0%;
+}
+.title-image{
+    float:left;
+    width: 300px;
+    margin-top: 0%;
+}
+footer{
+    clear: both;
+    text-align: right;
+    color: midnightblue;
+    font-size: 40px;
+}
+
